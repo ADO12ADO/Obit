@@ -2,8 +2,8 @@ import { FeaturedProjectsSectionType } from '@/lib/types/sections';
 import { getId } from '@/lib/utils/helper';
 
 const featuredProjectsSection: FeaturedProjectsSectionType = {
-  title: "projects i've worked on",
-  projects: [
+  title: "",
+  projects: [ /*{
     {
       id: getId(),
       name: 'Integra',
@@ -23,7 +23,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
       url: 'https://www.uproposalgpt.com/',
       img: 'https://user-images.githubusercontent.com/68834718/279469731-be163482-20cd-4cb3-8bcb-bbb2c1a345b8.png',
       tags: ['Open AI', 'NextJs', 'TypeScript', 'TailwindCSS', 'Prisma'],
-    },
+    }, */
   ],
 };
 

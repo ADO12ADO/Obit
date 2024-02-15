@@ -3,7 +3,7 @@ import { resumeFileName } from '@/lib/utils/config';
 
 export const navbarSection: NavbarSectionType = {
     navLinks: [
-        { name: 'about', url: '/#about'},
+        { name: 'Certificate', url: '/#about'},
         // { name: 'skills', url: '/#skills'},
         { name: 'experience', url: '/#experience' },
        // { name: 'projects', url: '/#projects' },

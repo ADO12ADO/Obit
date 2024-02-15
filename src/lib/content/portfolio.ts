@@ -15,25 +15,25 @@ export const socialLinks: StringKeyValueType = {
 };
 
 export const author = {
-  name: 'MUH.IKBAL',
+  name: 'MUH.IKBAL
   email: 'muhikbal1201@gmail.com',
 };
 
 export const seoData = {
-  title: 'MUH.IKBAL | Front-End Developer',
+  title: 'MUH.IKBALFront-End Developer',
   description:
-    'MUH.IKBAL is a front-end developer who specializes in building (and occasionally designing) exceptional visual interfaces.',
+    'MUH.IKBAL a front-end developer who specializes in building (and occasionally designing) exceptional visual interfaces.',
   author: author.name,
   image:
     'https://raw.githubusercontent.com/ADO12ADO/APP-CV/DEV/public/1692609567270.jpg?token=GHSAT0AAAAAACOC3VYBJR3EYOX4IHNBJJTYZOODTMQ',
   url: 'https://app-cv-sandy.vercel.app/',
   keywords: [
     'MUH.IKBAL',
-    'IKBAL',
+    'MUH.IKBAL
     '@MUH.IKBAL',
     'vatsalsinghkv',
     'Portfolio',
     'Vatsal Portfolio ',
-    'Vatsal Singh Portfolio',
+    'MUH.IKBAL Portfolio',
   ],
 };

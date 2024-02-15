@@ -1,22 +1,24 @@
 import { ExperienceSectionType } from '@/lib/types/sections'
 
 export const experienceSection: ExperienceSectionType = {
-    title: "where i've worked",
+    title: "Experience",
     experiences: [
     {
-        company: 'Pixelwand',
-        companyUrl: 'https://www.pixelwand.live/',
-        role: 'frontend developer',
-        started: 'july 2023',
+        company: 'Worked',
+        companyUrl: '',
+        role: 'Start',
+        started: '2016',
         upto: 'present',
         tasks: [
-        'Implemented UI components with React & Next.js, TypeScript & Tailwind CSS.',
-        'Developed and maintained design systems that separates design logic.',
-        'Understanding client needs and proposing effective solutions, which also involves strategising and planning.',
-        'Lead a cross-functional team of developers and designers in the creation of a SaaS product.',
+        'Cadet :1 Year : MT.MARLIN 8 : Tanker',
+        '3rd Engineer :1 Year 7 Month : TB.BINA MARINE 9 : Tugboat',
+        '2rd Engineer :7 Month 14 day : TB.BINA MARINE 9 : Tugboat',
+        'Chief Engineer :1 Year 20 day : MV.STL H3 : Split Hopper',
+        'Chief Engineer : Present : MV.STL H3 : Split Hopper',
+        
         ],
     },
-    {
+    /* {
         company: 'SHMTH Capital',
         companyUrl: 'https://shmth.capital/',
         role: 'frontend developer intern',
@@ -40,6 +42,6 @@ export const experienceSection: ExperienceSectionType = {
         'Reviewed and approved multiple Pull requests.',
         'Worked remotely with a distributed team from around the globe, collaborating closely using screen-sharing.',
         ],
-    },
+    }, */
     ],
 };

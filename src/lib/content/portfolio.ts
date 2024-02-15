@@ -29,7 +29,7 @@ export const seoData = {
   url: 'https://app-cv-sandy.vercel.app/',
   keywords: [
     'MUH.IKBAL',
-    'MUH.IKBAL'
+    'MUH.IKBAL',
     '@MUH.IKBAL',
     'vatsalsinghkv',
     'Portfolio',

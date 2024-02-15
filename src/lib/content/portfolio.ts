@@ -25,8 +25,8 @@ export const seoData = {
     'MUH.IKBAL is a front-end developer who specializes in building (and occasionally designing) exceptional visual interfaces.',
   author: author.name,
   image:
-    'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',
-  url: 'https://vatsalsinghkv.vercel.app/',
+    'https://raw.githubusercontent.com/ADO12ADO/APP-CV/DEV/public/1692609567270.jpg?token=GHSAT0AAAAAACOC3VYBJR3EYOX4IHNBJJTYZOODTMQ',
+  url: 'https://app-cv-sandy.vercel.app/',
   keywords: [
     'MUH.IKBAL',
     'IKBAL',

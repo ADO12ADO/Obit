@@ -15,7 +15,7 @@ export const socialLinks: StringKeyValueType = {
 };
 
 export const author = {
-  name: 'MUH.IKBAL'
+  name: 'MUH.IKBAL',
   email: 'muhikbal1201@gmail.com',
 };
 

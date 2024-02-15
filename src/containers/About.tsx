@@ -24,12 +24,10 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, my name is MUH.IKBAL, an artist as well as crazy full stack
-            web developer who wants to explore every tech stack.
+            Hi, my name is MUH.IKBAL, a passionate engineer aboard a ship.
           </p>
           <p>
-            Fast-forward to today, and I’ve had the privilege of working at a
-            start-up -{' '}
+            I specialize in  Repair and maintaining the vessel's systems. -{' '}
             <Link
               href="https://www.pixelwand.live/"
               target="_blank"
@@ -40,8 +38,7 @@ const About = () => {
             .
           </p>
           <p>
-            My main focus these days is learning mobile development and finding
-            a decent job.
+            Currently, my main focus is enhancing my skills in marine engineering and securing a fulfilling position in the maritime industry.
           </p>
 
           {list && (

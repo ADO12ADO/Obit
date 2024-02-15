@@ -3,8 +3,8 @@ import { getId } from '@/lib/utils/helper';
 
 
 export const projectsSection: ProjectsSectionType = {
-    title: 'my projects',
-    projects: [
+    title: '',
+    projects: [ /*{
     {
         id: getId(),
         name: 'beautiful animations',
@@ -139,6 +139,6 @@ export const projectsSection: ProjectsSectionType = {
         img: 'https://user-images.githubusercontent.com/68834718/210225545-989f79c3-cf05-4c53-b48e-b21f373b3734.png',
         year: 2021,
         tags: ['html', 'CSS', 'JS'],
-    },
+    }, */
     ],
 };

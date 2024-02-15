@@ -38,9 +38,15 @@
   }
 
   @font-face {
-    font-family: 'agustina';
-    src: url('/fonts/Agustina-Signature.otf') format('opentype');
-  }
+    font-family: 'calibri';
+    font-weight: normal;
+    font-style: normal;
+}
+
+.agustina {
+    font-family: 'calibri', sans-serif;
+    
+}
 
   * {
     @apply focus:outline-dashed outline-[3px] outline-offset-4 outline-accent;

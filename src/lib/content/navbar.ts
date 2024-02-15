@@ -10,7 +10,7 @@ export const navbarSection: NavbarSectionType = {
         { name: 'contact', url: '/#contact' },
     ],
     cta: {
-        title: 'Download CV MUH.IKBAL,
+        title: 'Download CV MUH.IKBAL',
         url: `/${resumeFileName}`,
     },
 }

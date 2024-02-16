@@ -13,8 +13,8 @@ export const experienceSection: ExperienceSectionType = {
         'Cadet :1 Year : MT.MARLIN 8 : Tanker',
         '3rd Engineer :1 Year 7 Month : TB.BINA MARINE 9 : Tugboat',
         '2rd Engineer :7 Month 14 day : TB.BINA MARINE 9 : Tugboat',
-        'Chief Engineer :1 Year 20 day : MV.STL H3 : Split Hopper',
-        'Chief Engineer : Present : MV.STL H3 : Split Hopper',
+        'Chief Engineer :1 Year 20 day : MV.STL H3 : Cargo Carrier',
+        'Chief Engineer : Present : MV.STL H3 : Cargo Carrier',
         
         ],
     },

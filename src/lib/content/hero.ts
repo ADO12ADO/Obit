@@ -7,9 +7,9 @@ export const heroSection: HeroSectionType = {
     tagline: 'I am a Seaman with a COC Class 2 Competency certificate Engineer.',
     description:
     "I am an engineer. And I have experience as a leader in my department",
-    specialText: 'Currently available for a job ',
+    specialText: 'Currently available for New a job ',
     cta: {
-        title: 'see my resume',
+        title: 'Download CV MUH.IKBAL',
         url: `/${resumeFileName}`,
         hideInDesktop: true,
     },

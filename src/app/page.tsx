@@ -20,7 +20,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Layout>
-        <Hero style={{ marginBottom: '10px' }} />
+        <Hero/>
         <About />
         <Experience />
         <Contact />

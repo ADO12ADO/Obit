@@ -16,12 +16,11 @@ import type { NextPage } from 'next';
  * TODO: Switch to next13 app dir feature, when lottie files start working in app dir
  * TODO: Try test cases
  */
-
 const Home: NextPage = () => {
   return (
     <>
       <Layout>
-        <Hero />
+        <Hero style={{ marginBottom: '10px' }} />
         <About />
         <Experience />
         <Contact />
@@ -32,5 +31,4 @@ const Home: NextPage = () => {
        // <Projects />
   );
 };
-
 export default Home;

@@ -20,9 +20,9 @@ export const author = {
 };
 
 export const seoData = {
-  title: 'MUH.IKBALFront-End Developer',
+  title: 'MUH.IKBAL',
   description:
-    'MUH.IKBAL a front-end developer who specializes in building (and occasionally designing) exceptional visual interfaces.',
+    'MUH.IKBAL APP CV',
   author: author.name,
   image:
     'https://raw.githubusercontent.com/ADO12ADO/APP-CV/DEV/public/1692609567270.jpg?token=GHSAT0AAAAAACOC3VYBJR3EYOX4IHNBJJTYZOODTMQ',

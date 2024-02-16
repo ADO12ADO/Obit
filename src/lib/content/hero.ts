@@ -11,6 +11,6 @@ export const heroSection: HeroSectionType = {
     cta: {
         title: 'Download CV MUH.IKBAL',
         url: `/${resumeFileName}`,
-        hideInDesktop: true,
+        hideInDesktop: false,
     },
 };

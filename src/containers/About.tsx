@@ -27,15 +27,8 @@ const About = () => {
             Hi, my name is MUH.IKBAL, a passionate engineer aboard a ship.
           </p>
           <p>
-            I specialize in  Repair and maintaining the vessel's systems. -{' '}
-            <Link
-              href="https://www.pixelwand.live/"
-              target="_blank"
-              className="text-accent"
-            >
-              Pixelwand
-            </Link>
-            .
+            I specialize in  Repair and maintaining the vessel's systems. 
+            
           </p>
           <p>
             Currently, my main focus is enhancing my skills in marine engineering and securing a fulfilling position in the maritime industry.
@@ -58,6 +51,15 @@ const About = () => {
   ) : (
     <></>
   );
+/*  -{' '}
+            <Link
+              href="https://www.pixelwand.live/"
+              target="_blank"
+              className="text-accent"
+            >
+              Pixelwand
+            </Link>
+            .*/
 };
 
 export default About;

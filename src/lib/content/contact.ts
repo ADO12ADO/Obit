@@ -8,5 +8,5 @@ export const contactSection: ContactSectionType = {
     'I’m currently looking for a new job or any new opportunities.',
     'Whether you to discuss or just want to say hi, my inbox is open for all!',
     ],
-    link: `mailto:${author.email}`,
+    link: `https://wa.me/qr/K7MLAQDKNC6NL1`,
 };

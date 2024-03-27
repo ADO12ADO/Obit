@@ -18,6 +18,7 @@ export const aboutSection: AboutSectionType = {
         'Ship Security Officer',
         'Basic Oil and Gas Tanker',
         'Advance Oil Tanker',
+        'International Safety Management Code',
     ],
     },
     img: '/vatsal-singh.jpg',

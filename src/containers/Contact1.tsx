@@ -8,7 +8,7 @@ const Contact1 = () => {
   const { subtitle, title, paragraphs, link } = contactSection;
   return (
     <Wrapper
-      id="contact1"
+      id="contact"
       className="max-w-xl mx-auto text-center  !py-16 md:!py-24 mb-20 md:mb-32"
       {...getSectionAnimation}
     >

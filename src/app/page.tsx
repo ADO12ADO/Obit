@@ -22,16 +22,13 @@ const Home: NextPage = () => {
       <Layout>
         <Experience />
         <About />
-        <Contact /> 
-        <Contact />
-        <Contact />
-       
+        <div style={{ display: 'flex', flexDirection: 'row' }}>
+          <Contact />
+          <Contact />
+          <Contact />
+        </div>
       </Layout>
     </>
-    // <Hero/> 
-    // <Skills />
-    //<FeaturedProjects />
-       // <Projects />
   );
 };
 export default Home;

@@ -4,11 +4,11 @@ import { Button, Wrapper } from '@/components';
 
 import { getSectionAnimation } from '@/styles/animations';
 
-const Contact1 = () => {
+const Contact2 = () => {
   const { subtitle, title, paragraphs, link } = contactSection;
   return (
     <Wrapper
-      id="contact"
+      id="contact2"
       className="max-w-xl mx-auto text-center  !py-16 md:!py-24 mb-20 md:mb-32"
       {...getSectionAnimation}
     >

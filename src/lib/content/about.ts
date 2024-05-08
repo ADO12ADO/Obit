@@ -1,7 +1,7 @@
 import { AboutSectionType } from '@/lib/types/sections'
 
 export const aboutSection: AboutSectionType = {
-    title: '',
+   // title: '',
     // Paragraphs need to be changed from containers/About.tsx
     // Because it wasn't possible to insert anchor tags like this
    // list: {
@@ -20,6 +20,6 @@ export const aboutSection: AboutSectionType = {
       //  'Advance Oil Tanker',
      //   'International Safety Management Code',
    // ],
-    },
+   // },
     img: '/vatsal-singh.jpg',
 };

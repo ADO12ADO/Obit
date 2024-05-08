@@ -24,14 +24,14 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, my name is MUH.IKBAL, a passionate engineer aboard a ship.
-          </p>
-          <p>
-            I specialize in  Repair and maintaining the vessel's systems. 
             
           </p>
           <p>
-            Currently, my main focus is enhancing my skills in marine engineering and securing a fulfilling position in the maritime industry.
+            
+            
+          </p>
+          <p>
+            
           </p>
 
           {list && (

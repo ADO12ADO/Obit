@@ -1,4 +1,4 @@
-import { contactSection } from '@/lib/content/contact';
+import { contactSection } from '@/lib/content/contact1';
 
 import { Button, Wrapper } from '@/components';
 
@@ -8,7 +8,7 @@ const Contact = () => {
   const { subtitle, title, paragraphs, link } = contactSection;
   return (
     <Wrapper
-      id="contact"
+      id="contact1"
       className="max-w-xl mx-auto text-center  !py-16 md:!py-24 mb-20 md:mb-32"
       {...getSectionAnimation}
     >

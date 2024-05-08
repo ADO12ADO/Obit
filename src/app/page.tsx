@@ -22,8 +22,8 @@ const Home: NextPage = () => {
       <Layout>
         <Experience />
         <About />
+        <Contact /> 
         <Contact />
-        <About />
         <Contact />
        
       </Layout>

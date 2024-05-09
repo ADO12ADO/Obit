@@ -8,7 +8,7 @@ export const navbarSection: NavbarSectionType = {
         { name: 'OBIT', url: '/#experience' },
        // { name: 'projects', url: '/#projects' },
         { name: 'SWAP', url: '/#contact' },
-    ]
+    ],{
    // cta: {
       //  title: 'Download CV MUH.IKBAL',
       //  url: `/${resumeFileName}`,

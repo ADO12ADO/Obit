@@ -4,7 +4,7 @@ import { Button, Wrapper } from '@/components';
 
 import { getSectionAnimation } from '@/styles/animations';
 
-const Contacta = () => {
+const Contact = () => {
   const { subtitle, title, paragraphs, link } = contactSection;
   return (
     <Wrapper
@@ -28,4 +28,4 @@ const Contacta = () => {
   );
 };
 
-export default Contacta;
+export default Contact;

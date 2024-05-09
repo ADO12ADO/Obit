@@ -8,5 +8,5 @@ export const contactSection: ContactSectionType = {
     '',
     '',
     ],
-    link: `https://wa.me/qr/K7MLAQDKNC6NL1`,
+    link: `https://jup.ag/`,
 };

@@ -123,7 +123,7 @@ Remember, Good PR makes you a Good contributor!
 - [https://brittanychiang.com/](https://brittanychiang.com/) - Design Inspiration
 - [https://dev.to/andrewchmr/awesome-animated-cursor-with-react-hooks-5ec3](https://dev.to/andrewchmr/awesome-animated-cursor-with-react-hooks-5ec3) - Cursor Animation Inspiration
 
-## Show Your Support
+## Show Your Support.
 
 Give a ⭐️ if you liked this project!
 

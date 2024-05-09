@@ -28,4 +28,4 @@ const Contact = () => {
   );
 };
 
-export default Contact2;
+export default Contactb;

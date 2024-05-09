@@ -1,20 +1,20 @@
 import { ExperienceSectionType } from '@/lib/types/sections'
 
 export const experienceSection: ExperienceSectionType = {
-    title: "Experience",
+    title: "OBIT , The meme Token",
     experiences: [
     {
-        company: 'Worked',
+        company: 'Contract kslsjdhhfdksjjsjdj',
         companyUrl: '',
-        role: 'Start',
-        started: '2016',
-        upto: 'present',
+        role: 'Smart',
+        started: '2024',
+        upto: 'Build',
         tasks: [
-        'Cadet :1 Year : MT.MARLIN 8 : Tanker',
-        '3rd Engineer :1 Year 7 Month : TB.BINA MARINE 9 : Tugboat',
-        '2rd Engineer :7 Month 14 day : TB.BINA MARINE 9 : Tugboat',
-        'Chief Engineer :1 Year 20 day : MV.STL H3 : Cargo Carrier',
-        'Chief Engineer : Present : MV.STL H3 : Cargo Carrier',
+        'Max Supply : 21.000.000',
+        'Lp         : 100% Burn',
+        'Owner      : Revorked',
+        'Admin SC   : Revolked',
+        'All Tokens will be put into Lp and not owned by the depelover ',
         
         ],
     },

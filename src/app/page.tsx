@@ -1,7 +1,7 @@
 import {
   About,
   Contact,
-  Contact1,
+  Contacta,
   Contact2,
   Experience,
   FeaturedProjects,
@@ -26,7 +26,7 @@ const Home: NextPage = () => {
         <About />
         <div style={{ display: 'flex', flexDirection: 'row' }}>
           <Contact />
-          <Contact1 />
+          <Contacta />
           <Contact2 />
         </div>
       </Layout>

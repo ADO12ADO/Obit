@@ -8,10 +8,10 @@ import { StringKeyValueType } from '../types';
 
 export const socialLinks: StringKeyValueType = {
   facebook: 'https://www.facebook.com/Baz010101?mibextid=ZbWKwL',
-  instagram: 'https://www.instagram.com/baz010101?igsh=aW5zbDZnaGgzZjZs',
-  twitter: '',
+  instagram: 'https://explorer.solana.com/',
+  twitter: 'https://x.com/IDS744862733344?s=09',
   github: '',
-  linkedin: 'https://www.linkedin.com/in/muhammad-ikbal-916092173?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+  linkedin: 'https://dexscreener.com/search',
 };
 
 export const author = {

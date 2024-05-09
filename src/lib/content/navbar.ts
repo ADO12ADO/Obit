@@ -7,7 +7,7 @@ export const navbarSection: NavbarSectionType = {
         { name: 'SWAP', url: '/#contact' },
     ],
     cta: {
-        title: 'Download CV MUH.IKBAL',
+        title: 'Smart Contract',
         url: 'https://twitter.com/muhammad_ikbal', // Ganti dengan URL Twitter Anda
     },
 };

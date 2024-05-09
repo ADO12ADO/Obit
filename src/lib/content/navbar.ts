@@ -3,14 +3,14 @@ import { resumeFileName } from '@/lib/utils/config';
 
 export const navbarSection: NavbarSectionType = {
     navLinks: [
-        { name: 'Certificate', url: '/#about'},
+      //  { name: 'Certificate', url: '/#about'},
         // { name: 'skills', url: '/#skills'},
-        { name: 'experience', url: '/#experience' },
+        { name: 'OBIT', url: '/#experience' },
        // { name: 'projects', url: '/#projects' },
-        { name: 'contact', url: '/#contact' },
+        { name: 'SWAP', url: '/#contact' },
     ],
-    cta: {
-        title: 'Download CV MUH.IKBAL',
-        url: `/${resumeFileName}`,
+   // cta: {
+      //  title: 'Download CV MUH.IKBAL',
+      //  url: `/${resumeFileName}`,
     },
 }

@@ -4,7 +4,7 @@ import { Button, Wrapper } from '@/components';
 
 import { getSectionAnimation } from '@/styles/animations';
 
-const Contact = () => {
+const Contacta = () => {
   const { subtitle, title, paragraphs, link } = contactSection;
   return (
     <Wrapper

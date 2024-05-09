@@ -1,20 +1,20 @@
 import { ExperienceSectionType } from '@/lib/types/sections'
 
 export const experienceSection: ExperienceSectionType = {
-    title: "OBIT , The meme Token",
+    title: "OBIT",
     experiences: [
     {
-        company: 'Contract kslsjdhhfdksjjsjdj',
+        company: '',
         companyUrl: '',
-        role: 'Smart',
-        started: '2024',
-        upto: 'Build',
+        role: 'Jahskdhdkxbxhxjxdj',
+        started: 'Build',
+        upto: '2024',
         tasks: [
         'Max Supply : 21.000.000',
         'Lp         : 100% Burn',
         'Owner      : Revorked',
         'Admin SC   : Revolked',
-        'All Tokens will be put into Lp and not owned by the depelover ',
+        'All Tokens will be put into Lp and not owned by the developer ',
         
         ],
     },

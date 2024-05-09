@@ -13,8 +13,8 @@ export const socialSection: SocialSectionType = {
         url: socialLinks.linkedin,
     },
     {
-        icon: 'lucide:facebook',
-        url: socialLinks.facebook,
+        icon: 'lucide:twitter',
+        url: socialLinks.twitter,
     },
     ],
 };

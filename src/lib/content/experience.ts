@@ -6,7 +6,7 @@ export const experienceSection: ExperienceSectionType = {
     {
         company: '',
         companyUrl: '',
-        role: 'Jahskdhdkxbxhxjxdj',
+        role: '',
         started: 'Build',
         upto: '2024',
         tasks: [

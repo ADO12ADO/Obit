@@ -15,25 +15,25 @@ export const socialLinks: StringKeyValueType = {
 };
 
 export const author = {
-  name: 'MUH.IKBAL',
+  name: 'OBIT',
   email: 'muhikbal1201@gmail.com',
 };
 
 export const seoData = {
-  title: 'MUH.IKBAL',
+  title: 'OBIT',
   description:
-    'MUH.IKBAL APP CV',
+    '',
   author: author.name,
   image:
     'https://raw.githubusercontent.com/ADO12ADO/APP-CV/DEV/public/1692609567270.jpg?token=GHSAT0AAAAAACOC3VYBJR3EYOX4IHNBJJTYZOODTMQ',
   url: 'https://app-cv-sandy.vercel.app/',
   keywords: [
-    'MUH.IKBAL',
-    'MUH.IKBAL',
-    '@MUH.IKBAL',
+    'OBIT',
+    'OBIT',
+    '@OBIT',
     'vatsalsinghkv',
     'Portfolio',
     'Vatsal Portfolio ',
-    'MUH.IKBAL Portfolio',
+    'OBIT Portfolio',
   ],
 };

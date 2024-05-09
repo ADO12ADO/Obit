@@ -11,9 +11,8 @@ export const experienceSection: ExperienceSectionType = {
         upto: '2024',
         tasks: [
         'Max Supply : 21.000.000',
+        'Mint       : Revoke Authority',
         'Lp         : 100% Burn',
-        'Owner      : Revorked',
-        'Admin SC   : Revolked',
         'All Tokens will be put into Lp and not owned by the developer ',
         
         ],

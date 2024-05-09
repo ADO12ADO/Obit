@@ -26,8 +26,8 @@ const Home: NextPage = () => {
         <About />
         <div style={{ display: 'flex', flexDirection: 'row' }}>
           <Contact />
-          <Contacta />
-          <Contactb />
+          <Contact />
+          <Contact />
         </div>
       </Layout>
     </>

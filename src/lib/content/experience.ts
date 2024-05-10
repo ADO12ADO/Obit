@@ -10,9 +10,10 @@ export const experienceSection: ExperienceSectionType = {
         started: 'Build',
         upto: '2024',
         tasks: [
-        'Max Supply : 21.000.000',
-        'Mint       : Revoke Authority',
-        'Lp         : 100% Burn',
+        'Contract Address : jakshdhhdhdjdjdjd',
+        'Max Supply       : 21.000.000',
+        'Mint             : Revoke Authority',
+        'Lp               : 100% Burn',
         'All Tokens will be put into Lp and not owned by the developer ',
         
         ],

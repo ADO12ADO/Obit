@@ -15,12 +15,12 @@ export const socialLinks: StringKeyValueType = {
 };
 
 export const author = {
-  name: 'OBIT',
+  name: 'RJP [Real Jerome H.Powell]',
   email: 'muhikbal1201@gmail.com',
 };
 
 export const seoData = {
-  title: 'OBIT',
+  title: 'RJP [Real Jerome H.Powell]',
   description:
     '',
   author: author.name,
@@ -28,12 +28,12 @@ export const seoData = {
     'https://raw.githubusercontent.com/ADO12ADO/APP-CV/DEV/public/1692609567270.jpg?token=GHSAT0AAAAAACOC3VYBJR3EYOX4IHNBJJTYZOODTMQ',
   url: 'https://app-cv-sandy.vercel.app/',
   keywords: [
-    'OBIT',
-    'OBIT',
-    '@OBIT',
+    'RJP [Real Jerome H.Powell]',
+    'RJP [Real Jerome H.Powell]',
+    '@RJP [Real Jerome H.Powell]',
     'vatsalsinghkv',
     'Portfolio',
     'Vatsal Portfolio ',
-    'OBIT Portfolio',
+    'RJP [Real Jerome H.Powell] Portfolio',
   ],
 };

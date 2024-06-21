@@ -5,8 +5,8 @@ export const contactSection: ContactSectionType = {
     title: '',
     subtitle: "",
     paragraphs: [
-    'OBIT for Everyone.',
-    'Do you like OBIT.',
+    'RJP [Real Jerome H.Powell] for Everyone.',
+    'Do you like RJP [Real Jerome H.Powell].',
     ],
     link: `https://jup.ag/`,
 };

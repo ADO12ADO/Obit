@@ -3,7 +3,7 @@ import { resumeFileName } from '@/lib/utils/config';
 
 export const navbarSection: NavbarSectionType = {
     navLinks: [
-        { name: 'OBIT', url: '/#experience' },
+        { name: 'RJP [Real Jerome H.Powell]', url: '/#experience' },
         { name: 'SWAP', url: '/#contact' },
     ],
     cta: {

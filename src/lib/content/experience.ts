@@ -1,7 +1,7 @@
 import { ExperienceSectionType } from '@/lib/types/sections'
 
 export const experienceSection: ExperienceSectionType = {
-    title: "OBIT",
+    title: "RJP [Real Jerome H.Powell]",
     experiences: [
     {
         company: '',
@@ -11,10 +11,10 @@ export const experienceSection: ExperienceSectionType = {
         upto: '2024',
         tasks: [
         'Contract Address : jakshdhhdhdjdjdjd',
-        'Max Supply       : 21.000.000',
+        'Max Supply       : 1.000.000.000',
         'Mint             : Revoke Authority',
-        'Lp               : 100% Burn',
-        'All Tokens will be put into Lp and not owned by the developer ',
+        'Lp               : 97% Burn',
+        'Dev : 3% ',
         
         ],
     },
